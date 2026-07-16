@@ -9,7 +9,7 @@ We help hobbyists and store owners launch their own sideloading "App Store" in n
 Our iOS app includes on-device IPA signing, modification, and tweak injection & extraction, as well as serving operator-provided IPAs with server-side signing. We use the latest technologies and can proudly say it's one of the most versatile and efficient apps of its kind.
 
 <details>
-<summary><b>📱 Screenshots — the iOS app</b></summary>
+<summary><b>Screenshots - the iOS app</b></summary>
 
 <br>
 
@@ -24,7 +24,7 @@ Our iOS app includes on-device IPA signing, modification, and tweak injection & 
 </details>
 
 <details>
-<summary><b>🖥️ Screenshots — the operator dashboard</b></summary>
+<summary><b>Screenshots — the operator dashboard</b></summary>
 
 <br>
 
@@ -58,10 +58,6 @@ Our iOS app includes on-device IPA signing, modification, and tweak injection & 
 
 </details>
 
-> ### Is SideKit affiliated with Apple?
-
-No. SideKit is fully independent — not affiliated with or endorsed by Apple.
-
 > ### What do I get as a store owner?
 
 Your own branded iOS app, landing page, and operator dashboard, running on a dedicated server we set up for you. You also get a shared catalog of 8,000+ apps that SideKit maintains and keeps signed for your subscribers.
@@ -76,7 +72,7 @@ No. Subscribers redeem an activation code, install your branded store app, and f
 
 > ### Do you take a cut of my revenue?
 
-Never. Flat monthly pricing — charge your subscribers however you want and keep 100%.
+Never.
 
 > ### How do I get started?
 
